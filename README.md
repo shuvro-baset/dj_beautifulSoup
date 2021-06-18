@@ -4,6 +4,7 @@
 '''
     *pip install bs4
     *pip install request
+    *pip install lxml
 
 '''
 # todo: import installed library into main.py
